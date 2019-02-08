@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test lint 1`] = `"[31mFailures: 18[39m/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts/test.ts"`;

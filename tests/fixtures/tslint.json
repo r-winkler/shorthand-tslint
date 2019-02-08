@@ -1,0 +1,8 @@
+{
+  "rulesDirectory": [
+    "../../dist"
+  ],
+  "rules": {
+    "shorthand-check": true
+  }
+}
